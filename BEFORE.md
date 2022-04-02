@@ -2,7 +2,23 @@
 
 ----
 
-**Sept, 30, 2021 5:51 PM UTC** - *@privacy_guides*
+**Sept. 30, 2021 5:47 PM UTC** - *@privacy_guides*
+
+tweet - https://nitter.eu/privacy_guides/status/1443633654572404740#m
+
+imgur mirror - https://i.imgur.com/FXoDjws.png
+
+----
+
+**Sept. 30, 2021 5:47 PM UTC** - *@privacy_guides*
+
+tweet - https://nitter.eu/privacy_guides/status/1443633532224557056#m
+
+imgur mirror - https://i.imgur.com/4VpTsEQ.png
+
+----
+
+**Sept. 30, 2021 5:51 PM UTC** - *@privacy_guides*
 
 tweet - https://nitter.eu/privacy_guides/status/1443634662203695109#m
 
@@ -10,7 +26,7 @@ imgur mirror - https://i.imgur.com/pXphXRb.png
 
 ----
 
-**Sep 30, 2021 · 5:46 PM UTC** - *@privacy_guides*
+**Sept. 30, 2021 · 5:46 PM UTC** - *@privacy_guides*
 
 tweet - https://nitter.eu/privacy_guides/status/1443633412800225280#
 
