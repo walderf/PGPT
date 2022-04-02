@@ -4,7 +4,7 @@
 
 * when censoring the post, the are claiming this was "exhaustively and comprehensively covered" 6 months ago when they split off and created their own site
 
-* first post about BurungHantu's statement submitted to /r/privacyguides on 4-1-2022 at 18:23:18 UTC.
+* first post about BurungHantu's statement submitted to privacyguides on 4-1-2022 at 18:23:18 UTC.
 
 * PG ronically annouunces the major new site redesign not long after that on 4-1-2022 at 19:43:34 UTC. 
 
