@@ -1,12 +1,17 @@
-# Events which occured before April 1st, 2022
+# This repository contains data, information, and facts surrounding the issue(s) between PrivacyGuides.org and PrivacyTools.io
 
-**Sep 30, 2021 · 5:51 PM UTC** -- *@privacy_guides* -- https://nitter.eu/privacy%5C_guides/status/1443634662203695109#m  -- [imgur mirror](https://i.imgur.com/pXphXRb.png) 
-
-**Sep 30, 2021 · 5:46 PM UTC** -- *@privacy_guides* -- https://nitter.eu/privacy_guides/status/1443633412800225280#m -- [imgur mirror](https://i.imgur.com/3wLbekM.png)
+#### The data here has not been manipulated in any way, it's just raw data. Consider this data to be unbiased, as both sides will be examined to the best of my ability. This data is mirrored on https://old.reddit.com/r/PGPT/  and every screenshot is also being hosted on imgur.com. 
 
 
-# Events occuring on or after April 1st, 2022 
- 
-At  **4:24 PM on Apr 1, 2022** -- *@privacytoolsIO* -- https://twitter.com/privacytoolsIO/status/1509929601832611841 -- [imgur mirror](https://i.imgur.com/Xb6Dhp8.png)
+### [Events occurring on or after April 1st, 2022.](AFTER.md)
 
-[direct link](https://www.privacytools.io/guides/jonah-aragon-privacyguides-failed-attempt-to-takeover) -- [imgur mirror](https://i.imgur.com/4rhWhWN.png)
+### [Events which occurred before April 1st, 2022.](BEFORE.md)
+
+### [Missing / Needed Evidence](MISSING.nd)
+
+
+
+
+
+
+
