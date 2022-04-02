@@ -2,7 +2,7 @@
 
 ----
 
-##### "We know lately there's been some confusion surrounding our project, and we wanted to detail how we see the situation as it stands currently:"
+### "We know lately there's been some confusion surrounding our project, and we wanted to detail how we see the situation as it stands currently:"
 
 ----
 
@@ -42,7 +42,7 @@ imgur mirror - https://i.imgur.com/4VpTsEQ.png
 
 ----
 
-##### "A New Era. Why r/PTIO Is Now A Restricted Sub. And, to new visitors, welcome! [xpost]"
+### "A New Era. Why r/PTIO Is Now A Restricted Sub. And, to new visitors, welcome! [xpost]"
 
 ----
 
