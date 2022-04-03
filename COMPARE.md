@@ -28,7 +28,7 @@ imgur mirror - https://i.imgur.com/vrb2J9g.png
 
 ## Code Frequency
 
-### PT 
+### PT
 
 https://github.com/privacytools/privacytools.io/graphs/code-frequency
 
@@ -110,7 +110,7 @@ imgur mirror - https://i.imgur.com/0rHY7UY.png
 
 #### Top 3 Commits: 
 
-***299*** 17911 ++ 5287 --  
+***299*** [17911**++** 5287**--**]  
 
 <https://github.com/privacytools/privacytools.io/graphs/contributors?from=2019-03-20&to=2020-12-29&type=c>
 
@@ -120,7 +120,7 @@ imgur mirror - https://i.imgur.com/BaU0CKn.png
 
 #### Top 3 Commits:
 
-***330*** 144474 ++ 116463 --
+***330*** [144474**++** 116463**--**]
 
 <https://github.com/privacyguides/privacyguides.org/graphs/contributors?from=2019-03-20&to=2020-12-29&type=c>
 
@@ -136,7 +136,7 @@ https://i.imgur.com/hy5cofd.png
 
 #### Top 3 Commits:
 
-***4*** 200 ++ 241 -- 
+***4*** [200**++** 241**--**]
 
 <https://github.com/privacytools/privacytools.io/graphs/contributors?from=2020-12-29&to=2022-04-02&type=c>
 
@@ -146,7 +146,7 @@ imgur mirror - https://i.imgur.com/rVyv6KT.png
 
 #### Top 3 Commits: 
 
-***209*** 43565 ++ 65714 --
+***209*** [43565**++** 65714**--**]
 
 <https://github.com/privacyguides/privacyguides.org/graphs/contributors?from=2020-12-29&to=2022-04-03&type=c>
 
@@ -160,7 +160,7 @@ imgur mirror - https://i.imgur.com/BxMmvVf.png
 
 #### Top 3 Commits:
 
-***186*** 30664 ++ 58769 --
+***186*** [30664**++** 58769**--**]
 
 ### PT
 
@@ -178,7 +178,7 @@ imgur mirror - https://i.imgur.com/YysmhDD.png
 
 *Monday, June 15th, 2020*
 
-### Days between his last post and PrivacyGuide's fork 
+### Days between his last post and PrivacyGuide's fork: 
 
 172 days *(5 months, 19 days)*
 
