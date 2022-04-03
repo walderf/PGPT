@@ -76,13 +76,13 @@ imgur mirror - https://i.imgur.com/d27PjtG.png
 
 ## PrivacyGuides first public announcement *(July 27th, 2021)*
 
-#### Length of time between fork and announcement
+#### Length of time between fork and announcement 
 
-**(235 days)** *or* **(7 months, 23 days)**
+#####  **(235 days)** *or* **(7 months, 23 days)**
 
 #### Number of PrivacyGuides commits between fork and announcement 
 
-*71*
+##### *71*
 
 <https://github.com/privacyguides/privacyguides.org/graphs/contributors?from=2020-12-04&to=2021-07-27&type=c>
 
@@ -104,13 +104,13 @@ imgur mirror - https://i.imgur.com/0rHY7UY.png
 
 #### Duration 
 
-**(650 day)** *or* **(1 year, 9 months, 9 days)**
+##### **(650 day)** *or* **(1 year, 9 months, 9 days)**
 
 ### PT
 
 ##### Top 3 Commits 
 
-*299* 17911 ++ 5287 --  
+##### *299* 17911 ++ 5287 --  
 
 <https://github.com/privacytools/privacytools.io/graphs/contributors?from=2019-03-20&to=2020-12-29&type=c>
 
@@ -120,7 +120,7 @@ imgur mirror - https://i.imgur.com/BaU0CKn.png
 
 #### Top 3 Commits 
 
-*330* 144474 ++ 116463 --
+##### *330* 144474 ++ 116463 --
 
 <https://github.com/privacyguides/privacyguides.org/graphs/contributors?from=2019-03-20&to=2020-12-29&type=c>
 
@@ -130,11 +130,13 @@ https://i.imgur.com/hy5cofd.png
 
 #### Duration 
 
-**(459 days)** *or* **(1 year, 4 months, 3 days)**
+##### **(459 days)** *or* **(1 year, 4 months, 3 days)**
 
 ### PT
 
-#### Top 3 Commits *4* 200 ++ 241 -- 
+#### Top 3 Commits
+
+##### *4* 200 ++ 241 -- 
 
 <https://github.com/privacytools/privacytools.io/graphs/contributors?from=2020-12-29&to=2022-04-02&type=c>
 
@@ -148,15 +150,15 @@ imgur mirror - https://i.imgur.com/rVyv6KT.png
 
 imgur mirror - https://i.imgur.com/BxMmvVf.png
 
-## Contribtions from inception *(July 5th, 2015)* to March 20th, 2019
+## Contributions from inception *(July 5th, 2015)* to March 20th, 2019
 
 #### Duration 
 
-**(1354 days)** *or* **(3 years, 8 months, 15 days)**
+##### **(1354 days)** *or* **(3 years, 8 months, 15 days)**
 
 #### Top 3 Commits 
 
-*186* 30664 ++ 58769 --
+##### *186* 30664 ++ 58769 --
 
 ### PT
 
@@ -176,7 +178,7 @@ imgur mirror - https://i.imgur.com/YysmhDD.png
 
 #### Days between his last post and PrivacyGuide's fork 
 
-**(172 days)** *or* **(5 months, 19 days)**
+##### **(172 days)** *or* **(5 months, 19 days)**
 
 <https://teddit.net/r/privacytoolsIO/comments/h9rz1m/list_of_encrypted_instant_messengers_on/>
 
