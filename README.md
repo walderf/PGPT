@@ -13,5 +13,6 @@
 
 ### [Compare data](COMPARE.md)
 
+### [FAQ](FAQ.md)
 
 
