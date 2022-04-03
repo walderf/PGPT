@@ -11,7 +11,7 @@
 
 ### [Random Observations / Notes](OBSERVATIONS.md)
 
-
+### [Compare data](COMPARE.md)
 
 
 
